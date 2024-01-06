@@ -19,3 +19,6 @@
 ![image](https://github.com/rhdmswls12/login/assets/71330240/ea4e54f1-f54b-40b8-9f0c-e8dc71412555)
 * 더미 데이터로 아이디는 'abc@gmail.com', 비밀번호는 'Apple123'으로 설정하였고, 해당 값들을 입력하면 위와 같이 메인 페이지로 이동할 수 있습니다.
 
+![image](https://github.com/rhdmswls12/login/assets/71330240/4767ed37-7561-4f63-a1f4-8d0422b0c833)
+* 로컬 스토리지에 단순하게 아이디인 'abc@gmail.com'를 저장해 사용자가 다시 접속해도 로그인 과정 없이 바로 메인 페이지로 이동할 수 있도록 했습니다.
+* 로컬 스토리지에 저장되어 있는 아이디 값 삭제 시 다시 접속했을 때 로그인 화면을 접하게 됩니다.
