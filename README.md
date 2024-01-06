@@ -11,3 +11,11 @@
 
 ![image](https://github.com/rhdmswls12/login/assets/71330240/755bf52d-26c7-4246-bc95-c068f121413b)
 * 올바른 메일 형식을 갖추지 않은 경우 위와 같이 경고문이 뜨도록 했습니다.
+
+
+![image](https://github.com/rhdmswls12/login/assets/71330240/e03d71d1-a743-4da6-976f-1c16eba2b601)
+* 소문자, 대문자, 숫자 조합이 아니거나 첫 글자가 알파벳이 아닌 경우 위와 같이 경고문이 뜨도록 했습니다.
+  
+![image](https://github.com/rhdmswls12/login/assets/71330240/ea4e54f1-f54b-40b8-9f0c-e8dc71412555)
+* 더미 데이터로 아이디는 'abc@gmail.com', 비밀번호는 'Apple123'으로 설정하였고, 해당 값들을 입력하면 위와 같이 메인 페이지로 이동할 수 있습니다.
+
